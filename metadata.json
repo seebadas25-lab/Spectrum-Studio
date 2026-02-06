@@ -1,0 +1,5 @@
+{
+  "name": "260206 Spectrum Studio",
+  "description": "A serverless, local-first web video editor for creating music visualization videos. Features audio spectrums, timeline automation, and local rendering.",
+  "requestFramePermissions": []
+}
